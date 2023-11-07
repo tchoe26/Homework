@@ -1,9 +1,10 @@
-public class Brackets {
 
-    public static void main(String[] args) {
-        Brackets Pancakes = new Brackets();
-    }
-    public Brackets(){
+    public class Brackets {
+
+        public static void main(String[] args) {
+            Brackets Pancakes = new Brackets();
+        }
+        public Brackets(){
             // Ingredients
             int eggs = 2;
             double flourCups = 1.5;
@@ -41,3 +42,5 @@ public class Brackets {
         }
 
     }
+
+
